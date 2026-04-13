@@ -1,6 +1,6 @@
-﻿namespace SiLadhida
+﻿namespace SiLadhida.View
 {
-    partial class Form1
+    partial class View1
     {
         /// <summary>
         /// Required designer variable.
@@ -28,13 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // View1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Name = "View1";
+            this.Text = "View1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
     }
 }
-

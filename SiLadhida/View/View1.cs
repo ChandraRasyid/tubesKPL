@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SiLadhida
+namespace SiLadhida.View
 {
-    public partial class Form1 : Form
+    public partial class View1 : Form
     {
-        public Form1()
+        public View1()
         {
             InitializeComponent();
         }

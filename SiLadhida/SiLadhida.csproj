@@ -69,10 +69,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\Controller.cs" />
-    <Compile Include="Model\Model.cs" />
+    <Compile Include="Model\Produk.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\Service.cs" />
+    <Compile Include="Services\Keranjang.cs" />
+    <Compile Include="Services\DataProduk.cs" />
     <Compile Include="View\View1.cs">
       <SubType>Form</SubType>
     </Compile>

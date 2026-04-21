@@ -91,6 +91,8 @@
     <EmbeddedResource Include="View\View1.resx">
       <DependentUpon>View1.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="jurnal7_1_103082400008.json" />
+    <None Include="jurnal7_2_103082400008.json" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

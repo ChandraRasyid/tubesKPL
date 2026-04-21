@@ -1,0 +1,21 @@
+{
+  "firstName": "Ruben",
+  "lastName": "Simarmata",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jl. Ketintang",
+    "city": "Surabaya",
+    "state": "East Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "RPL4XX",
+      "name": "Pemrograman C#"
+    }
+  ]
+}

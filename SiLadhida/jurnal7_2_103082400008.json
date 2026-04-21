@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "firstName": "Ruben",
+      "lastName": "Simarmata",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400008"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Chandra",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400003"
+    },
+    {
+      "firstName": "David",
+      "lastName": "David",
+      "gender": "male",
+      "age": 21,
+      "nim": "00000000"
+    },
+    {
+      "firstName": "daffa",
+      "lastName": "daffa",
+      "gender": "male",
+      "age": 21,
+      "nim": "00000001"
+    }
+  ]
+}

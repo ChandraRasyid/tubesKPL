@@ -112,7 +112,7 @@ public class GlossaryItem103082400008
             string jsonString = File.ReadAllText(filepath);
             GlossaryRoot root = JsonSerializer.Deserialize<GlossaryRoot>(jsonString);
             var entry = root.glossary.GlossDiv.GlossList.GlossEntry;
-            Console.WriteLine("=== HASIL JSON 3 ===");
+            Console.WriteLine(" HASIL JSON 3 ");
             Console.WriteLine($"Term: {entry.GlossTerm}");
             Console.WriteLine($"Acronym: {entry.Acronym}");
             Console.WriteLine($"Definition: {entry.GlossDef.para}");
